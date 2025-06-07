@@ -6,14 +6,15 @@
 - 📫 How to reach me: **sairam.gowda@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love blending spiritual philosophy with cutting-edge tech innovations.**
+- 👔 **Founder – Monks Mind Hub Pvt Ltd**  
+  Driving innovation at the intersection of technology, spirituality, and social impact.
 
 ---
 
-> 👔 *Founder – [Monks Mind Hub Pvt Ltd](https://monkshub.in)*  
-> Driving innovation at the intersection of technology, spirituality, and social impact.
+> 🧠 **Languages & Tools I use regularly:**  
+`PHP` | `JavaScript` | `Python` | `MySQL` | `HTML/CSS` | `jQuery` | `AI/ML APIs` | `AWS (EC2, S3, Lambda)` | `Google Cloud (GCP)` | `Docker` | `REST APIs` | `WebRTC` | `Node.js` | `VS Code` | `Git/GitHub`
 
-> 🧠 *Languages & Tools I use regularly:*  
-`PHP` | `JavaScript` | `Python` | `MySQL` | `HTML/CSS` | `jQuery` | `AI/ML APIs`
+---
 
 <!---
 sairamgowda/sairamgowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
