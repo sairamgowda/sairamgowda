@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Web Development, Artificial Intelligence, and Automation**
 - 🌱 I’m currently learning **AI-Powered Applications, Python for Data Science, and Advanced JavaScript**
 - 💞️ I’m looking to collaborate on **Open-source PHP projects, AI-based face recognition, and automation tools**
-- 📫 How to reach me: **sairamgowda@monks.in**
+- 📫 How to reach me: **sairam.gowda@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love blending spiritual philosophy with cutting-edge tech innovations.**
 
