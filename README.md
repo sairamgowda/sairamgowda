@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sairamgowda
+# 👋 Hi, I’m Sai Ram Gowda
 
 - 👀 I’m interested in **Web Development, Artificial Intelligence, and Automation**
 - 🌱 I’m currently learning **AI-Powered Applications, Python for Data Science, and Advanced JavaScript**
